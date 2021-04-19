@@ -1,0 +1,3799 @@
+mutations:
+- id: chrX:123179217
+  ref_counts: 13
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 28
+- id: chrX:129147859
+  ref_counts: 611
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 23
+- id: chrX:129147863
+  ref_counts: 642
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 24
+- id: chrX:153063540
+  ref_counts: 142
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chrX:153688564
+  ref_counts: 131
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chrX:3533930
+  ref_counts: 35
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chrX:53448859
+  ref_counts: 73
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chrX:54208990
+  ref_counts: 120
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr1:109792748
+  ref_counts: 111
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr1:11094906
+  ref_counts: 308
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr1:11985396
+  ref_counts: 78
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr1:12409302
+  ref_counts: 56
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr1:12409303
+  ref_counts: 55
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr1:12855895
+  ref_counts: 181
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 15
+- id: chr1:12907739
+  ref_counts: 249
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr1:12939569
+  ref_counts: 340
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr1:12939585
+  ref_counts: 310
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr1:145415369
+  ref_counts: 357
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr1:148252019
+  ref_counts: 113
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 11
+- id: chr1:152276045
+  ref_counts: 257
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr1:152276049
+  ref_counts: 253
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr1:152276067
+  ref_counts: 240
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr1:152276072
+  ref_counts: 243
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr1:152278706
+  ref_counts: 303
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr1:152278714
+  ref_counts: 311
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr1:152280994
+  ref_counts: 226
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 13
+- id: chr1:152281002
+  ref_counts: 233
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr1:152281005
+  ref_counts: 229
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr1:152281007
+  ref_counts: 133
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 88
+- id: chr1:152281635
+  ref_counts: 191
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr1:152284549
+  ref_counts: 224
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr1:152284623
+  ref_counts: 214
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 20
+- id: chr1:152284644
+  ref_counts: 225
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr1:152284655
+  ref_counts: 231
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr1:152284665
+  ref_counts: 225
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr1:152284670
+  ref_counts: 230
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr1:152284678
+  ref_counts: 225
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr1:161275678
+  ref_counts: 547
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr1:162326888
+  ref_counts: 259
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 11
+- id: chr1:162326891
+  ref_counts: 259
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 11
+- id: chr1:164761842
+  ref_counts: 1026
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 11
+- id: chr1:167403286
+  ref_counts: 436
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr1:16902857
+  ref_counts: 706
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 12
+- id: chr1:17086000
+  ref_counts: 277
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 21
+- id: chr1:17086001
+  ref_counts: 295
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr1:17086007
+  ref_counts: 290
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr1:17312799
+  ref_counts: 196
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 43
+- id: chr1:186276056
+  ref_counts: 835
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 30
+- id: chr1:186276061
+  ref_counts: 800
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 32
+- id: chr1:186276186
+  ref_counts: 622
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 54
+- id: chr1:186276189
+  ref_counts: 698
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 36
+- id: chr1:186276585
+  ref_counts: 696
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 39
+- id: chr1:197065236
+  ref_counts: 44
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 16
+- id: chr1:201180438
+  ref_counts: 188
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr1:20980223
+  ref_counts: 449
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr1:20991117
+  ref_counts: 682
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr1:214556806
+  ref_counts: 250
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr1:21894616
+  ref_counts: 651
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr1:22213733
+  ref_counts: 505
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr1:22405009
+  ref_counts: 871
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr1:225341506
+  ref_counts: 39
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 12
+- id: chr1:228461692
+  ref_counts: 252
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr1:230778388
+  ref_counts: 356
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr1:23238963
+  ref_counts: 546
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr1:23240245
+  ref_counts: 276
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 15
+- id: chr1:240370967
+  ref_counts: 150
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr1:240371661
+  ref_counts: 167
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr1:249142441
+  ref_counts: 73
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 16
+- id: chr1:25254173
+  ref_counts: 416
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr1:25889632
+  ref_counts: 419
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr1:26131693
+  ref_counts: 463
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr1:26135169
+  ref_counts: 685
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr1:26515296
+  ref_counts: 301
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr1:26517281
+  ref_counts: 718
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr1:27100919
+  ref_counts: 514
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr1:31349997
+  ref_counts: 666
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr1:32210322
+  ref_counts: 56
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 14
+- id: chr1:36228062
+  ref_counts: 72
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 17
+- id: chr1:44467176
+  ref_counts: 392
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr1:47406950
+  ref_counts: 238
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr1:55145677
+  ref_counts: 33
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 25
+- id: chr1:7798034
+  ref_counts: 228
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr1:8384582
+  ref_counts: 82
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 20
+- id: chr2:102792901
+  ref_counts: 52
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr2:113418142
+  ref_counts: 86
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:113993047
+  ref_counts: 714
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr2:120128341
+  ref_counts: 38
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr2:130737991
+  ref_counts: 125
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:157185909
+  ref_counts: 556
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr2:167266241
+  ref_counts: 85
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:179611843
+  ref_counts: 83
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 26
+- id: chr2:180823776
+  ref_counts: 43
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr2:185801095
+  ref_counts: 63
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr2:186660943
+  ref_counts: 100
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:18765869
+  ref_counts: 96
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr2:202265767
+  ref_counts: 79
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:207174427
+  ref_counts: 78
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:227660808
+  ref_counts: 52
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr2:227661663
+  ref_counts: 131
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:238727588
+  ref_counts: 154
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 13
+- id: chr2:240969640
+  ref_counts: 112
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:241969969
+  ref_counts: 105
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:242063396
+  ref_counts: 357
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:27720437
+  ref_counts: 352
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:45169430
+  ref_counts: 199
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr2:45169639
+  ref_counts: 527
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr2:46611698
+  ref_counts: 720
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr2:50574009
+  ref_counts: 108
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr2:54895524
+  ref_counts: 394
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:55253745
+  ref_counts: 84
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:60688280
+  ref_counts: 576
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:60688968
+  ref_counts: 175
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 12
+- id: chr2:70396738
+  ref_counts: 432
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr2:70933448
+  ref_counts: 253
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr2:71740428
+  ref_counts: 482
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr2:71896321
+  ref_counts: 558
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:74761882
+  ref_counts: 27
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 13
+- id: chr2:75100983
+  ref_counts: 451
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr2:75101493
+  ref_counts: 276
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr2:98165926
+  ref_counts: 883
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr2:98165934
+  ref_counts: 961
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr3:113804562
+  ref_counts: 67
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 16
+- id: chr3:128616498
+  ref_counts: 268
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr3:183778058
+  ref_counts: 95
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr3:185997694
+  ref_counts: 91
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 15
+- id: chr3:195511767
+  ref_counts: 195
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr3:195512567
+  ref_counts: 203
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 15
+- id: chr3:195512645
+  ref_counts: 164
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr3:39188103
+  ref_counts: 91
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr3:42679764
+  ref_counts: 97
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr3:53265412
+  ref_counts: 67
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr3:55107828
+  ref_counts: 76
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr3:8609224
+  ref_counts: 213
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr3:97851968
+  ref_counts: 92
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 13
+- id: chr3:97868559
+  ref_counts: 74
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr3:97868588
+  ref_counts: 75
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr3:97868746
+  ref_counts: 132
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr3:97868749
+  ref_counts: 135
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr3:97868754
+  ref_counts: 139
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr4:121738035
+  ref_counts: 181
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr4:1332886
+  ref_counts: 86
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr4:190876247
+  ref_counts: 202
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr4:190876250
+  ref_counts: 201
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr4:25353274
+  ref_counts: 54
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr4:2826343
+  ref_counts: 110
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr4:4228424
+  ref_counts: 56
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr4:6349702
+  ref_counts: 126
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr4:9270193
+  ref_counts: 578
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr4:96069915
+  ref_counts: 41
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 27
+- id: chr5:108233533
+  ref_counts: 91
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr5:11346713
+  ref_counts: 447
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr5:11903957
+  ref_counts: 101
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 17
+- id: chr5:137710851
+  ref_counts: 76
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr5:139061005
+  ref_counts: 130
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr5:140038688
+  ref_counts: 60
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr5:140176708
+  ref_counts: 73
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 12
+- id: chr5:140256878
+  ref_counts: 846
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr5:140793243
+  ref_counts: 33
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 29
+- id: chr5:140811443
+  ref_counts: 74
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr5:14358383
+  ref_counts: 199
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr5:14472704
+  ref_counts: 118
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr5:147861098
+  ref_counts: 65
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr5:156679629
+  ref_counts: 86
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 18
+- id: chr5:167379646
+  ref_counts: 98
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 54
+- id: chr5:179028913
+  ref_counts: 103
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr5:180651182
+  ref_counts: 255
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr5:32356021
+  ref_counts: 96
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr5:33641946
+  ref_counts: 97
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr5:70922515
+  ref_counts: 57
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr5:76332468
+  ref_counts: 482
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr5:78610487
+  ref_counts: 103
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 12
+- id: chr5:94050588
+  ref_counts: 74
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr5:94050589
+  ref_counts: 74
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr5:94050591
+  ref_counts: 77
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr6:108214754
+  ref_counts: 59
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr6:116784653
+  ref_counts: 22
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 22
+- id: chr6:117681527
+  ref_counts: 365
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr6:20402610
+  ref_counts: 78
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr6:33703124
+  ref_counts: 67
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr6:39847087
+  ref_counts: 81
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr6:89975427
+  ref_counts: 67
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:100484778
+  ref_counts: 54
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:100550281
+  ref_counts: 154
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr7:100550288
+  ref_counts: 175
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr7:100550291
+  ref_counts: 172
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr7:100550325
+  ref_counts: 207
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 13
+- id: chr7:100550424
+  ref_counts: 156
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 11
+- id: chr7:100550442
+  ref_counts: 147
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 12
+- id: chr7:100643292
+  ref_counts: 199
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr7:100643427
+  ref_counts: 679
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 16
+- id: chr7:100643868
+  ref_counts: 296
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr7:100643877
+  ref_counts: 285
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr7:12409831
+  ref_counts: 211
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr7:128506638
+  ref_counts: 63
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:128506641
+  ref_counts: 71
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr7:129110500
+  ref_counts: 37
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:143270135
+  ref_counts: 187
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:147600689
+  ref_counts: 71
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr7:150710447
+  ref_counts: 122
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:150864246
+  ref_counts: 91
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:1516499
+  ref_counts: 643
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr7:1535801
+  ref_counts: 532
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:155532507
+  ref_counts: 336
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 13
+- id: chr7:18067261
+  ref_counts: 391
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:1937899
+  ref_counts: 484
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:20668435
+  ref_counts: 108
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:20824044
+  ref_counts: 183
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr7:20824949
+  ref_counts: 217
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:20824951
+  ref_counts: 220
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr7:21906253
+  ref_counts: 202
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:2260629
+  ref_counts: 490
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 80
+- id: chr7:23300280
+  ref_counts: 272
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:27141769
+  ref_counts: 491
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr7:27224116
+  ref_counts: 178
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:27238846
+  ref_counts: 353
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:2963941
+  ref_counts: 526
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr7:2963973
+  ref_counts: 560
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:30962226
+  ref_counts: 2075
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr7:33044951
+  ref_counts: 206
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr7:4002410
+  ref_counts: 276
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:4051763
+  ref_counts: 284
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:44576507
+  ref_counts: 891
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr7:47440006
+  ref_counts: 648
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr7:4827794
+  ref_counts: 221
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr7:4839287
+  ref_counts: 381
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:4843296
+  ref_counts: 410
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:4845214
+  ref_counts: 137
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:50455075
+  ref_counts: 1672
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr7:50467934
+  ref_counts: 1124
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr7:50607673
+  ref_counts: 1522
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr7:50680486
+  ref_counts: 725
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr7:50742278
+  ref_counts: 1717
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr7:55223632
+  ref_counts: 1283
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr7:55259515
+  ref_counts: 78
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 102
+- id: chr7:5966101
+  ref_counts: 134
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:6194322
+  ref_counts: 449
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:70229794
+  ref_counts: 624
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 14
+- id: chr7:70229802
+  ref_counts: 639
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr7:70231207
+  ref_counts: 229
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr7:70255509
+  ref_counts: 427
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:73011954
+  ref_counts: 291
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 12
+- id: chr7:73768293
+  ref_counts: 549
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr7:74193632
+  ref_counts: 758
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr7:74193642
+  ref_counts: 788
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 28
+- id: chr7:74197385
+  ref_counts: 537
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:80374253
+  ref_counts: 63
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr7:87135301
+  ref_counts: 70
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 19
+- id: chr7:98507828
+  ref_counts: 213
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 18
+- id: chr8:118170064
+  ref_counts: 48
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr8:126194517
+  ref_counts: 50
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr8:22069118
+  ref_counts: 26
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 16
+- id: chr8:48739387
+  ref_counts: 68
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr8:97274395
+  ref_counts: 105
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr9:125487021
+  ref_counts: 69
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr9:131262388
+  ref_counts: 39
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 26
+- id: chr9:131484055
+  ref_counts: 123
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr9:131757724
+  ref_counts: 46
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr9:137664672
+  ref_counts: 70
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 43
+- id: chr9:138418285
+  ref_counts: 64
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 44
+- id: chr9:139836499
+  ref_counts: 237
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr9:2104079
+  ref_counts: 64
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr9:33796744
+  ref_counts: 73
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr9:33796746
+  ref_counts: 74
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr9:33796758
+  ref_counts: 70
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr9:33796762
+  ref_counts: 71
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr9:33796766
+  ref_counts: 72
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr9:33799098
+  ref_counts: 65
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr9:36211721
+  ref_counts: 39
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr9:96021732
+  ref_counts: 45
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr9:96422544
+  ref_counts: 158
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr10:101190241
+  ref_counts: 101
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr10:115355424
+  ref_counts: 107
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr10:11797422
+  ref_counts: 80
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr10:118387303
+  ref_counts: 85
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr10:124594542
+  ref_counts: 44
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr10:23235134
+  ref_counts: 56
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr10:23409748
+  ref_counts: 96
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr10:45498870
+  ref_counts: 35
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr10:46322037
+  ref_counts: 53
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr10:71332745
+  ref_counts: 494
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr10:73499449
+  ref_counts: 402
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr10:88476141
+  ref_counts: 519
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 35
+- id: chr10:96163172
+  ref_counts: 46
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr11:100998969
+  ref_counts: 36
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 33
+- id: chr11:1016715
+  ref_counts: 262
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 36
+- id: chr11:1016719
+  ref_counts: 269
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 37
+- id: chr11:1016802
+  ref_counts: 395
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 31
+- id: chr11:1016810
+  ref_counts: 398
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 30
+- id: chr11:1016845
+  ref_counts: 479
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr11:1016856
+  ref_counts: 480
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 12
+- id: chr11:1016863
+  ref_counts: 485
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr11:1016869
+  ref_counts: 189
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 262
+- id: chr11:1016879
+  ref_counts: 448
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 29
+- id: chr11:1016885
+  ref_counts: 463
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr11:1016889
+  ref_counts: 426
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 37
+- id: chr11:1016892
+  ref_counts: 434
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 19
+- id: chr11:1016908
+  ref_counts: 406
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 13
+- id: chr11:1016916
+  ref_counts: 405
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr11:1016934
+  ref_counts: 386
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 11
+- id: chr11:1016936
+  ref_counts: 359
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 27
+- id: chr11:1016944
+  ref_counts: 335
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 23
+- id: chr11:1016954
+  ref_counts: 341
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr11:1016957
+  ref_counts: 278
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 65
+- id: chr11:1016959
+  ref_counts: 304
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 57
+- id: chr11:1017363
+  ref_counts: 270
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 11
+- id: chr11:1017392
+  ref_counts: 269
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 13
+- id: chr11:1017401
+  ref_counts: 260
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 16
+- id: chr11:1017721
+  ref_counts: 389
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 12
+- id: chr11:1017756
+  ref_counts: 486
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 12
+- id: chr11:1017782
+  ref_counts: 498
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 24
+- id: chr11:1017786
+  ref_counts: 497
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 24
+- id: chr11:1017790
+  ref_counts: 515
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 11
+- id: chr11:1017806
+  ref_counts: 510
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 12
+- id: chr11:1017819
+  ref_counts: 522
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr11:1017822
+  ref_counts: 504
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr11:1017824
+  ref_counts: 499
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 22
+- id: chr11:1017911
+  ref_counts: 256
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 17
+- id: chr11:1018408
+  ref_counts: 122
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr11:1023974
+  ref_counts: 309
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr11:118770651
+  ref_counts: 212
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr11:120346086
+  ref_counts: 54
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr11:124757059
+  ref_counts: 56
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 37
+- id: chr11:126137086
+  ref_counts: 118
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr11:1265752
+  ref_counts: 38
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr11:1274132
+  ref_counts: 131
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr11:1606095
+  ref_counts: 134
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr11:1606105
+  ref_counts: 129
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr11:1642908
+  ref_counts: 227
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr11:1642916
+  ref_counts: 237
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr11:20448403
+  ref_counts: 52
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr11:281553
+  ref_counts: 238
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr11:2929501
+  ref_counts: 227
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr11:30557654
+  ref_counts: 48
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 22
+- id: chr11:57505453
+  ref_counts: 87
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr11:57970967
+  ref_counts: 165
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr11:58275281
+  ref_counts: 42
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 15
+- id: chr11:61537797
+  ref_counts: 70
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr11:61537800
+  ref_counts: 84
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 16
+- id: chr11:6231511
+  ref_counts: 77
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 32
+- id: chr11:62549652
+  ref_counts: 42
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 11
+- id: chr11:64535251
+  ref_counts: 168
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 23
+- id: chr11:67164772
+  ref_counts: 40
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr11:67287267
+  ref_counts: 513
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr11:67771218
+  ref_counts: 126
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr11:71715139
+  ref_counts: 439
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr11:823739
+  ref_counts: 215
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr11:823745
+  ref_counts: 214
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr12:11214025
+  ref_counts: 154
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 13
+- id: chr12:11214182
+  ref_counts: 123
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr12:11214191
+  ref_counts: 124
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:11214199
+  ref_counts: 118
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:11214509
+  ref_counts: 195
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 26
+- id: chr12:11285909
+  ref_counts: 118
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:113905193
+  ref_counts: 30
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 14
+- id: chr12:122252200
+  ref_counts: 52
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr12:122261243
+  ref_counts: 96
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:124832427
+  ref_counts: 419
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:130855787
+  ref_counts: 49
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr12:13102981
+  ref_counts: 61
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 47
+- id: chr12:132404021
+  ref_counts: 71
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 41
+- id: chr12:22040796
+  ref_counts: 473
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr12:26275216
+  ref_counts: 142
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr12:31944845
+  ref_counts: 110
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr12:40880023
+  ref_counts: 159
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:40880545
+  ref_counts: 106
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr12:40880560
+  ref_counts: 92
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:40880576
+  ref_counts: 94
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:40880590
+  ref_counts: 95
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:40880594
+  ref_counts: 96
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:40880634
+  ref_counts: 105
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:40880701
+  ref_counts: 101
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr12:40880995
+  ref_counts: 120
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr12:40881686
+  ref_counts: 79
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:40882883
+  ref_counts: 51
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:416953
+  ref_counts: 83
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:42499690
+  ref_counts: 55
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr12:42499692
+  ref_counts: 59
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr12:42499694
+  ref_counts: 60
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr12:42499701
+  ref_counts: 55
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr12:42499711
+  ref_counts: 59
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr12:42499714
+  ref_counts: 59
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr12:42499730
+  ref_counts: 70
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr12:42499738
+  ref_counts: 67
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr12:48372443
+  ref_counts: 653
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:49426906
+  ref_counts: 483
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:49433882
+  ref_counts: 1017
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr12:49445426
+  ref_counts: 890
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr12:50747102
+  ref_counts: 162
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 20
+- id: chr12:50749372
+  ref_counts: 51
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 17
+- id: chr12:52314600
+  ref_counts: 591
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr12:53069268
+  ref_counts: 438
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr12:53454301
+  ref_counts: 745
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr12:56096887
+  ref_counts: 339
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:56515414
+  ref_counts: 75
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 12
+- id: chr12:57588219
+  ref_counts: 459
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:57590855
+  ref_counts: 389
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:57591111
+  ref_counts: 458
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:58022887
+  ref_counts: 703
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr12:58025102
+  ref_counts: 433
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 14
+- id: chr12:58131200
+  ref_counts: 75
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 35
+- id: chr12:58176970
+  ref_counts: 327
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:63544265
+  ref_counts: 411
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:63544422
+  ref_counts: 536
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:64812754
+  ref_counts: 87
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:657211
+  ref_counts: 171
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr12:96641507
+  ref_counts: 493
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr12:970296
+  ref_counts: 107
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr13:21013788
+  ref_counts: 108
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr13:27643486
+  ref_counts: 120
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr13:28931800
+  ref_counts: 32
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 19
+- id: chr13:46099171
+  ref_counts: 99
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr13:75936575
+  ref_counts: 117
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr13:77713333
+  ref_counts: 38
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr14:100594947
+  ref_counts: 151
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 13
+- id: chr14:100594957
+  ref_counts: 156
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 14
+- id: chr14:105173965
+  ref_counts: 116
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr14:105174065
+  ref_counts: 143
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr14:105174074
+  ref_counts: 148
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr14:105353081
+  ref_counts: 155
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 25
+- id: chr14:105415608
+  ref_counts: 42
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 113
+- id: chr14:105858006
+  ref_counts: 170
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr14:21679689
+  ref_counts: 42
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr14:21992625
+  ref_counts: 150
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr14:23528502
+  ref_counts: 132
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr14:23790967
+  ref_counts: 167
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr14:24661924
+  ref_counts: 133
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr14:24837642
+  ref_counts: 335
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr14:29236624
+  ref_counts: 238
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr14:39649817
+  ref_counts: 112
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 49
+- id: chr14:63174303
+  ref_counts: 118
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr14:67831674
+  ref_counts: 95
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr14:69704473
+  ref_counts: 155
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr14:75601620
+  ref_counts: 97
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr14:81961442
+  ref_counts: 87
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr14:86088685
+  ref_counts: 103
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr14:99976797
+  ref_counts: 251
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 29
+- id: chr15:33261136
+  ref_counts: 286
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 23
+- id: chr15:42470709
+  ref_counts: 42
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 19
+- id: chr15:45047506
+  ref_counts: 72
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr15:56386019
+  ref_counts: 108
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr15:62214896
+  ref_counts: 95
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr15:74287203
+  ref_counts: 292
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 11
+- id: chr15:85652331
+  ref_counts: 64
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:1291269
+  ref_counts: 157
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 14
+- id: chr16:1291545
+  ref_counts: 87
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr16:1449392
+  ref_counts: 108
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:15808819
+  ref_counts: 679
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr16:16251549
+  ref_counts: 370
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr16:16253349
+  ref_counts: 406
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:16276743
+  ref_counts: 713
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr16:16276776
+  ref_counts: 655
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr16:18532173
+  ref_counts: 265
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 19
+- id: chr16:18532182
+  ref_counts: 255
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 20
+- id: chr16:2086846
+  ref_counts: 264
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr16:2165566
+  ref_counts: 146
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 19
+- id: chr16:23546254
+  ref_counts: 741
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr16:23546354
+  ref_counts: 732
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr16:28763851
+  ref_counts: 91
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:28877514
+  ref_counts: 767
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr16:28877940
+  ref_counts: 353
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:29810350
+  ref_counts: 621
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr16:29814205
+  ref_counts: 490
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:29814212
+  ref_counts: 502
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:29884982
+  ref_counts: 492
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 28
+- id: chr16:29910333
+  ref_counts: 666
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr16:30198235
+  ref_counts: 387
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:30199804
+  ref_counts: 827
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr16:30736370
+  ref_counts: 180
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr16:30748436
+  ref_counts: 543
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr16:30755188
+  ref_counts: 705
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr16:31123462
+  ref_counts: 896
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr16:31343017
+  ref_counts: 507
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr16:31373160
+  ref_counts: 41
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:3140111
+  ref_counts: 257
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:4511943
+  ref_counts: 220
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:50745107
+  ref_counts: 378
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:5075558
+  ref_counts: 164
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:56904082
+  ref_counts: 270
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr16:57918226
+  ref_counts: 483
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr16:57918230
+  ref_counts: 500
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr16:57918238
+  ref_counts: 495
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr16:677579
+  ref_counts: 272
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr16:69782978
+  ref_counts: 120
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr16:72821989
+  ref_counts: 420
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr16:72822564
+  ref_counts: 403
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 13
+- id: chr16:72822728
+  ref_counts: 983
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr16:72828649
+  ref_counts: 101
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:85689387
+  ref_counts: 95
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr16:85689393
+  ref_counts: 98
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr16:87368911
+  ref_counts: 149
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:88495789
+  ref_counts: 92
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:88495793
+  ref_counts: 94
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr16:88505408
+  ref_counts: 122
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:89712453
+  ref_counts: 478
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr16:90086356
+  ref_counts: 58
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:18137424
+  ref_counts: 626
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:18167277
+  ref_counts: 78
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:21319066
+  ref_counts: 129
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 21
+- id: chr17:29552221
+  ref_counts: 55
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:37371383
+  ref_counts: 88
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:37863340
+  ref_counts: 132
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:39262237
+  ref_counts: 170
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:39274452
+  ref_counts: 136
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr17:39595557
+  ref_counts: 108
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:39595563
+  ref_counts: 108
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:39914680
+  ref_counts: 259
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:40818353
+  ref_counts: 128
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:4462973
+  ref_counts: 194
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:48433967
+  ref_counts: 767
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr17:48653309
+  ref_counts: 453
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr17:48672366
+  ref_counts: 461
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr17:63533733
+  ref_counts: 104
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:65899951
+  ref_counts: 54
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:73498972
+  ref_counts: 127
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr17:7386272
+  ref_counts: 123
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 11
+- id: chr17:74077980
+  ref_counts: 99
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:74266485
+  ref_counts: 112
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr17:7606714
+  ref_counts: 156
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr17:7750970
+  ref_counts: 414
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr17:79193762
+  ref_counts: 98
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 45
+- id: chr18:12115496
+  ref_counts: 36
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 15
+- id: chr18:14543062
+  ref_counts: 141
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr18:19053168
+  ref_counts: 37
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 13
+- id: chr18:32400801
+  ref_counts: 56
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr18:33243676
+  ref_counts: 191
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr18:34901833
+  ref_counts: 143
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 27
+- id: chr18:43418725
+  ref_counts: 80
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr18:43418735
+  ref_counts: 82
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr18:44260323
+  ref_counts: 232
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr18:47511150
+  ref_counts: 72
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr18:55218040
+  ref_counts: 82
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 36
+- id: chr19:11098424
+  ref_counts: 142
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 14
+- id: chr19:11352859
+  ref_counts: 542
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:13356020
+  ref_counts: 816
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr19:1487005
+  ref_counts: 300
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:15067416
+  ref_counts: 258
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:15540658
+  ref_counts: 170
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:15989724
+  ref_counts: 557
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 37
+- id: chr19:1828206
+  ref_counts: 218
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 71
+- id: chr19:19043764
+  ref_counts: 285
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:2248536
+  ref_counts: 90
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr19:3019747
+  ref_counts: 232
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:31770506
+  ref_counts: 298
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:33355112
+  ref_counts: 248
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:35232368
+  ref_counts: 165
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr19:35232372
+  ref_counts: 162
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr19:35625552
+  ref_counts: 173
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr19:36212671
+  ref_counts: 201
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:36558216
+  ref_counts: 172
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:36631941
+  ref_counts: 117
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:38379432
+  ref_counts: 297
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:38817576
+  ref_counts: 109
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 13
+- id: chr19:39013749
+  ref_counts: 60
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 154
+- id: chr19:39694690
+  ref_counts: 210
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:40903841
+  ref_counts: 485
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:41173875
+  ref_counts: 172
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:4159709
+  ref_counts: 105
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:42729848
+  ref_counts: 136
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:42729851
+  ref_counts: 147
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 10
+- id: chr19:42799313
+  ref_counts: 140
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr19:42857720
+  ref_counts: 140
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:42866667
+  ref_counts: 387
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:4365617
+  ref_counts: 91
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:43680106
+  ref_counts: 232
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:44057761
+  ref_counts: 309
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:44169526
+  ref_counts: 138
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:44271773
+  ref_counts: 237
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr19:44832469
+  ref_counts: 221
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:46269107
+  ref_counts: 413
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr19:46283130
+  ref_counts: 131
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:46417701
+  ref_counts: 279
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:47207495
+  ref_counts: 225
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:47226141
+  ref_counts: 307
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:4792887
+  ref_counts: 130
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:48525554
+  ref_counts: 111
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:49004759
+  ref_counts: 368
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:49013378
+  ref_counts: 385
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:49218105
+  ref_counts: 281
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr19:49490493
+  ref_counts: 206
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:49850472
+  ref_counts: 189
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr19:498767
+  ref_counts: 35
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:50245180
+  ref_counts: 81
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:50435881
+  ref_counts: 251
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr19:50435884
+  ref_counts: 248
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr19:50435887
+  ref_counts: 247
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:50435928
+  ref_counts: 225
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr19:50823921
+  ref_counts: 777
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:50881806
+  ref_counts: 121
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 88
+- id: chr19:52658450
+  ref_counts: 116
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 16
+- id: chr19:52869508
+  ref_counts: 194
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr19:55815036
+  ref_counts: 262
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr19:5587282
+  ref_counts: 149
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:56029971
+  ref_counts: 234
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr19:56029976
+  ref_counts: 235
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr19:56171899
+  ref_counts: 316
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:56284217
+  ref_counts: 430
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 13
+- id: chr19:57132687
+  ref_counts: 435
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:59011002
+  ref_counts: 129
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr19:9000185
+  ref_counts: 227
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:9000187
+  ref_counts: 228
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:9000194
+  ref_counts: 231
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:9000205
+  ref_counts: 235
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr19:9006392
+  ref_counts: 146
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr19:9006405
+  ref_counts: 144
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr19:9028245
+  ref_counts: 40
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr20:31022442
+  ref_counts: 104
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr20:33370110
+  ref_counts: 35
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 12
+- id: chr20:36572580
+  ref_counts: 73
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr20:36572584
+  ref_counts: 82
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr20:36572589
+  ref_counts: 84
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr20:36572592
+  ref_counts: 85
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 9
+- id: chr20:36776435
+  ref_counts: 106
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 22
+- id: chr20:44676636
+  ref_counts: 104
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr20:54974163
+  ref_counts: 107
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr20:61511882
+  ref_counts: 78
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr21:44272416
+  ref_counts: 588
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr21:44841585
+  ref_counts: 212
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr21:45535737
+  ref_counts: 297
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr22:20458195
+  ref_counts: 1145
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr22:26168363
+  ref_counts: 106
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 23
+- id: chr22:30125172
+  ref_counts: 193
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr22:30776304
+  ref_counts: 152
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr22:31501666
+  ref_counts: 145
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr22:35730435
+  ref_counts: 177
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr22:36055544
+  ref_counts: 199
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr22:38051395
+  ref_counts: 101
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 8
+- id: chr22:38121788
+  ref_counts: 397
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 11
+- id: chr22:43625097
+  ref_counts: 198
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr22:44285218
+  ref_counts: 199
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5
+- id: chr22:49103583
+  ref_counts: 248
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 7
+- id: chr22:50017859
+  ref_counts: 256
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 6
+- id: chr22:50523201
+  ref_counts: 127
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 55
+- id: chr22:50685154
+  ref_counts: 178
+  states:
+  - {g_n: AA, g_r: AA, g_v: AB, prior_weight: 1}
+  - {g_n: AA, g_r: AA, g_v: BB, prior_weight: 1}
+  var_counts: 5

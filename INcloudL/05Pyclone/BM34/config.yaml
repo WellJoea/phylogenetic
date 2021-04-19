@@ -1,0 +1,30 @@
+base_measure_params:
+  alpha: 1
+  beta: 1
+beta_binomial_precision_params:
+  prior:
+    rate: 0.001
+    shape: 1.0
+  proposal:
+    precision: 0.01
+  value: 1000
+concentration:
+  prior:
+    rate: 0.001
+    shape: 1.0
+  value: 1.0
+density: pyclone_beta_binomial
+num_iters: 10000
+samples:
+  BM34_M:
+    error_rate: 0.001
+    mutations_file: /lustre/rde/user/guoxc/project/181126_12Sample_BrM/phylogenetic/INcloudL/05Pyclone/BM34/yaml/BM34_M.yaml
+    tumour_content:
+      value: 1.0
+  BM34_P:
+    error_rate: 0.001
+    mutations_file: /lustre/rde/user/guoxc/project/181126_12Sample_BrM/phylogenetic/INcloudL/05Pyclone/BM34/yaml/BM34_P.yaml
+    tumour_content:
+      value: 1.0
+trace_dir: trace
+working_dir: /lustre/rde/user/guoxc/project/181126_12Sample_BrM/phylogenetic/INcloudL/05Pyclone/BM34

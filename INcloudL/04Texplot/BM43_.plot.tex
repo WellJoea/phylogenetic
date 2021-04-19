@@ -1,0 +1,111 @@
+
+%-*- coding: UTF-8 -*-
+%%%%%%%%%% package %%%%%%%%%% 
+\documentclass[UTF8,twoside]{ctexrep}
+\usepackage{blkarray}
+\usepackage{fancyvrb}
+\usepackage{ltxtable}
+\usepackage{tabu}
+\usepackage{multirow,makecell,multicol}
+\usepackage[cmyk,table]{xcolor}
+\usepackage{colortbl}
+\usepackage{pagecolor,afterpage}
+\usepackage{makeidx}
+\usepackage{threeparttable}
+\usepackage{array}
+%\usepackage[a4paper,total={200mm,380mm},left=1cm,right=1cm,top=1cm,bottom=1cm]{geometry}
+%\usepackage[paperheight=9in,paperwidth=9in,left=0.3cm,right=1cm,top=3cm,bottom=0.0cm]{geometry}
+\usepackage[paperheight=10in,paperwidth=9in,left=0.3cm,right=1cm,top=3cm,bottom=0.0cm]{geometry}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{balance}
+\usepackage{tabu,tikz}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage[justification=RaggedRight,labelformat=empty]{caption}
+\usepackage{tocloft}
+\usepackage{lastpage}
+\usepackage{dashrule}
+\usepackage{xhfill}
+\usepackage{paralist} 
+\usepackage{wallpaper}
+\usepackage{ifthen,changepage}
+\usepackage{pdfpages}
+\usepackage{ragged2e}
+\usepackage{pifont}
+\usepackage{adjustbox}
+\usepackage{pstricks}
+\usepackage{hhline}
+\usepackage{titletoc}
+\usepackage{rotating}
+\usepackage{titlesec}
+\usepackage{stackengine}
+\usepackage{forest}
+
+%\usepackage[colorlinks,linkcolor=black,anchorcolor=blue,citecolor=green]{hyperref} 
+\usepackage{hyperref}
+%%%%%%%%%% table format command  %%%%%%%%%
+\renewcommand{\raggedright}{\leftskip=0pt \rightskip=0pt plus 0cm}
+%\justifying\let\raggedright\justifying
+\newcolumntype{C}[1]{>{\centering\arraybackslash}m{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}m{#1}}
+\newcolumntype{Y}{>{\centering\arraybackslash}X}
+\newcolumntype{V}{!{\color{white}\vline width 1.8pt}}
+\newcolumntype{Y}{!{\color{white}\vline width 3pt}}
+\newcolumntype{?}{!{\vrule width 1.5pt}}
+\setlength{\aboverulesep}{0.0pt}
+\setlength{\belowrulesep}{0.0pt}
+
+%\tikzset{dot/.style={circle,draw,inner sep=1.2,fill=black},}
+
+\begin{document}
+\setlength{\aboverulesep}{0pt}
+\setlength{\belowrulesep}{0pt}
+\setlength\tabcolsep{0 pt}
+
+\definecolor{greyi}{RGB}{230,230,230}
+\definecolor{grayi}{RGB}{220,220,220}
+
+\begin{center}
+%\begin{flushleft}
+%\begin{sidewaystable}
+  \color{black}
+  \fontsize{14}{14}\selectfont
+  \renewcommand\arraystretch{0.4}
+\begin{adjustbox}{angle=90}
+
+\begin{tabularx}{\linewidth}{C{0.08214285714285714\linewidth}@{}VC{0.017857142857142856\linewidth}@{}VC{0.05357142857142857\linewidth}@{}VC{0.7464285714285714\linewidth}@{}Y>{\color{black}\bfseries}b{0.1\linewidth}@{}}
+\addstackgap[20pt]{\cellcolor{greyi}} & \cellcolor{blue} & \cellcolor{greyi} & \cellcolor{greyi} & {\multirow{1}{*}{BM43\_L}} \\ 
+\specialrule{0em}{2.6pt}{2.6pt}
+\addstackgap[20pt]{\cellcolor{red}} & \cellcolor{greyi} & \cellcolor{greyi} & \cellcolor{yellow} & {\multirow{1}{*}{BM43\_M}} \\ 
+\specialrule{0em}{2.6pt}{2.6pt}
+\addstackgap[20pt]{\cellcolor{red}} & \cellcolor{greyi} & \cellcolor{green} & \cellcolor{greyi} & {\multirow{1}{*}{BM43\_P}} \\ 
+\specialrule{0em}{2.6pt}{2.6pt}
+\specialrule{0em}{3.0pt}{3.0pt}
+\cellcolor{red} & \cellcolor{blue} & \cellcolor{green} & \cellcolor{yellow} &  \\ 
+\specialrule{0em}{4.5pt}{4.5pt}
+\addstackgap[20pt]{\cellcolor{white} } &&& \\
+
+\multicolumn{5}{@{}l}{
+\begin{forest}
+    for tree={l sep=1cm,grow=0,circle,outer sep=0pt,inner sep=4pt,line width=3pt,fill=grayi,draw=black,calign=fixed edge angles,calign angle=30},
+[ ,name=root, label={left: \bf{Nomal}}
+[ ,name=1,l*=1.369047619047619, edge={red,line width=0.3cm}
+[ ,name=3,l*=0.8928571428571428, edge={green,line width=0.3cm},label={right: \bf{\makecell[l]{BM43\_P}}}]
+[ ,name=4,l*=12.44047619047619, edge={yellow,line width=0.3cm},label={right: \bf{\makecell[l]{BM43\_M}}}]
+]
+[ ,name=2,l*=0.2976190476190476, edge={blue,line width=0.3cm},label={right: \bf{\makecell[l]{BM43\_L}}}]
+]
+\end{forest}
+} \\
+
+
+\end{tabularx}
+
+\end{adjustbox}
+%\end{sidewaystable}
+%\end{flushleft}
+\end{center}
+\end{document}

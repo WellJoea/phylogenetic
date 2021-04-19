@@ -1,0 +1,22 @@
+digraph G { 
+size ="10,10"
+forcelabels=true
+0 -> 3[ label="" fontname="Arial Bold" fontsize=18];
+0 -> 1[ label="" fontname="Arial Bold" fontsize=18];
+1 -> 4[ label="" fontname="Arial Bold" fontsize=18];
+1 -> 2[ label="" fontname="Arial Bold" fontsize=18];
+4 -> 5[ label="" fontname="Arial Bold" fontsize=18];
+3 -> 7[ label="0.08" fontname="Arial Bold" fontsize=18];
+5 -> 8[ label="0.07" fontname="Arial Bold" fontsize=18];
+2 -> 9[ label="0.1" fontname="Arial Bold" fontsize=18];
+0 [ shape=plaintext label="GL" fontname="Arial Bold" fontsize=20 style=filled fillcolor="#ffffff" color="#000000" width=0.625 heigth=0.625];
+1 [ shape=circle label="31" fontname="Arial Bold" fontsize=20 style=filled fillcolor="#e3cda8" color="#000000" width=1.0416666666666667 heigth=1.0416666666666667];
+2 [ shape=circle label="55" fontname="Arial Bold" fontsize=20 style=filled fillcolor="#b1b1ba" color="#000000" width=1.0416666666666667 heigth=1.0416666666666667];
+3 [ shape=circle label="29" fontname="Arial Bold" fontsize=20 style=filled fillcolor="#e0b6c7" color="#000000" width=1.0416666666666667 heigth=1.0416666666666667];
+4 [ shape=circle label="32" fontname="Arial Bold" fontsize=20 style=filled fillcolor="#ffb2b2" color="#000000" width=1.0416666666666667 heigth=1.0416666666666667];
+5 [ shape=circle label="21" fontname="Arial Bold" fontsize=20 style=filled fillcolor="#e9e1db" color="#000000" width=1.0416666666666667 heigth=1.0416666666666667];
+7 [image="/lustre/rde/user/guoxc/project/181126_12Sample_BrM/phylogenetic/INcloudL/03LICHEE/lichee_dot_img_temp/img_1551685730321_7.png" shape=square label="BM32_L" labelloc=b fontname="Arial Bold" fontsize=20 style=filled fillcolor="#ffffff" color="#000000" width=0.8333333333333334 heigth=0.8333333333333334];
+8 [image="/lustre/rde/user/guoxc/project/181126_12Sample_BrM/phylogenetic/INcloudL/03LICHEE/lichee_dot_img_temp/img_1551685730321_8.png" shape=square label="BM32_M" labelloc=b fontname="Arial Bold" fontsize=20 style=filled fillcolor="#ffffff" color="#000000" width=0.8333333333333334 heigth=0.8333333333333334];
+9 [image="/lustre/rde/user/guoxc/project/181126_12Sample_BrM/phylogenetic/INcloudL/03LICHEE/lichee_dot_img_temp/img_1551685730321_9.png" shape=square label="BM32_P" labelloc=b fontname="Arial Bold" fontsize=20 style=filled fillcolor="#ffffff" color="#000000" width=0.8333333333333334 heigth=0.8333333333333334];
+{ rank = sink; 7; 8; 9; } 
+}

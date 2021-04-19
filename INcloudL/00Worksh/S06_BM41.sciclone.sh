@@ -1,0 +1,1 @@
+Rscript /lustre/rde/user/guoxc/project/181126_12Sample_BrM/phylogenetic/INcloudL/06Sciclone/BM41/BM41.sci.R

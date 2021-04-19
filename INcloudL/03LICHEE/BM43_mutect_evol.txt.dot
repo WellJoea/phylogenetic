@@ -1,0 +1,20 @@
+digraph G { 
+size ="10,10"
+forcelabels=true
+0 -> 2[ label="" fontname="Dialog.bold" fontsize=18];
+0 -> 1[ label="" fontname="Dialog.bold" fontsize=18];
+1 -> 4[ label="" fontname="Dialog.bold" fontsize=18];
+1 -> 3[ label="" fontname="Dialog.bold" fontsize=18];
+2 -> 6[ label="0.09" fontname="Dialog.bold" fontsize=18];
+4 -> 7[ label="0.1" fontname="Dialog.bold" fontsize=18];
+3 -> 8[ label="0.1" fontname="Dialog.bold" fontsize=18];
+0 [ shape=plaintext label="GL" fontname="Dialog.bold" fontsize=20 style=filled fillcolor="#ffffff" color="#000000" width=0.625 heigth=0.625];
+1 [ shape=circle label="23" fontname="Dialog.bold" fontsize=20 style=filled fillcolor="#e3cda8" color="#000000" width=1.0416666666666667 heigth=1.0416666666666667];
+2 [ shape=circle label="5" fontname="Dialog.bold" fontsize=20 style=filled fillcolor="#b1b1ba" color="#000000" width=0.625 heigth=0.625];
+3 [ shape=circle label="15" fontname="Dialog.bold" fontsize=20 style=filled fillcolor="#e0b6c7" color="#000000" width=0.625 heigth=0.625];
+4 [ shape=circle label="209" fontname="Dialog.bold" fontsize=20 style=filled fillcolor="#ffb2b2" color="#000000" width=1.0416666666666667 heigth=1.0416666666666667];
+6 [image="/lustre/rde/user/guoxc/project/181126_12Sample_BrM/phylogenetic/INcloudL/03LICHEE/lichee_dot_img_temp/img_1545198232879_6.png" shape=square label="BM43_L" labelloc=b fontname="Dialog.bold" fontsize=20 style=filled fillcolor="#ffffff" color="#000000" width=0.8333333333333334 heigth=0.8333333333333334];
+7 [image="/lustre/rde/user/guoxc/project/181126_12Sample_BrM/phylogenetic/INcloudL/03LICHEE/lichee_dot_img_temp/img_1545198232879_7.png" shape=square label="BM43_M" labelloc=b fontname="Dialog.bold" fontsize=20 style=filled fillcolor="#ffffff" color="#000000" width=0.8333333333333334 heigth=0.8333333333333334];
+8 [image="/lustre/rde/user/guoxc/project/181126_12Sample_BrM/phylogenetic/INcloudL/03LICHEE/lichee_dot_img_temp/img_1545198232879_8.png" shape=square label="BM43_P" labelloc=b fontname="Dialog.bold" fontsize=20 style=filled fillcolor="#ffffff" color="#000000" width=0.8333333333333334 heigth=0.8333333333333334];
+{ rank = sink; 6; 7; 8; } 
+}

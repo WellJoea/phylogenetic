@@ -1,0 +1,14 @@
+digraph G { 
+size ="10,10"
+forcelabels=true
+0 -> 2[ label="" fontname="Dialog.bold" fontsize=18];
+0 -> 1[ label="" fontname="Dialog.bold" fontsize=18];
+2 -> 4[ label="0.07" fontname="Dialog.bold" fontsize=18];
+1 -> 5[ label="0.11" fontname="Dialog.bold" fontsize=18];
+0 [ shape=plaintext label="GL" fontname="Dialog.bold" fontsize=20 style=filled fillcolor="#ffffff" color="#000000" width=0.625 heigth=0.625];
+1 [ shape=circle label="47" fontname="Dialog.bold" fontsize=20 style=filled fillcolor="#e3cda8" color="#000000" width=1.0416666666666667 heigth=1.0416666666666667];
+2 [ shape=circle label="25" fontname="Dialog.bold" fontsize=20 style=filled fillcolor="#b1b1ba" color="#000000" width=1.0416666666666667 heigth=1.0416666666666667];
+4 [image="/lustre/rde/user/guoxc/project/181126_12Sample_BrM/phylogenetic/INcloudL/03LICHEE/lichee_dot_img_temp/img_1545198130114_4.png" shape=square label="BM39_M" labelloc=b fontname="Dialog.bold" fontsize=20 style=filled fillcolor="#ffffff" color="#000000" width=0.8333333333333334 heigth=0.8333333333333334];
+5 [image="/lustre/rde/user/guoxc/project/181126_12Sample_BrM/phylogenetic/INcloudL/03LICHEE/lichee_dot_img_temp/img_1545198130114_5.png" shape=square label="BM39_P" labelloc=b fontname="Dialog.bold" fontsize=20 style=filled fillcolor="#ffffff" color="#000000" width=0.8333333333333334 heigth=0.8333333333333334];
+{ rank = sink; 4; 5; } 
+}
